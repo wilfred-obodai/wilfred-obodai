@@ -56,6 +56,21 @@ I'm a full-stack developer based in **Ghana 🇬🇭**, focused on building prac
 
 ---
 
+### 🎓 KNUST Course Hub
+> A smart timetable & lecture venue guide built for CS Year 1 students at KNUST
+
+**Live:** [wilfred-obodai.github.io/knust-course-hub-cs1](https://wilfred-obodai.github.io/knust-course-hub-cs1/)
+
+- Full semester timetable for both Group 1 & Group 2
+- Lecture venue info with direct Google Maps links
+- Class notification toggle
+- Links to slides & past questions via Telegram
+- Built by a CS student, for CS students
+
+**Stack:** `HTML` `CSS` `JavaScript` `GitHub Pages`
+
+---
+
 ## 🧰 Tech Stack
 
 ### Frontend
