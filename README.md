@@ -30,7 +30,7 @@ I'm a full-stack developer based in **Ghana 🇬🇭**, focused on building prac
 ### 🛒 RetailTrack
 > A full-featured retail management SaaS for small businesses
 
-**Live:** [retailtracker.vercel.app](https://retailtracker.vercel.app)
+**Live:** [retailtrackgh.com](https://retailtrackgh.com)
 
 - Cart-based sales with barcode scanning support
 - Payment tracking — Cash, MoMo, Card, Credit
